@@ -63,7 +63,8 @@ HangmanProject/
 ├── lib/
 │   └── gson-2.10.1.jar
 ├── Hangman.java
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## 🚀 Quick Start
@@ -244,8 +245,8 @@ Contributions, issues, and feature requests are welcome! Here's how you can help
 ## 👨‍💻 Author
 
 **Mayank Kumar**
-- GitHub: [@YOUR_USERNAME](https://github.com/mayank-kumar214)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mayankconnects)
+- GitHub: [@mayank-kumar214](https://github.com/mayank-kumar214)
+- LinkedIn: [Mayank Kumar](https://linkedin.com/in/mayankconnects)
 - Email: iammayank214@gmail.com
 
 ## 📄 License
